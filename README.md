@@ -2,7 +2,7 @@ The Birds and the Bees and More: Pollinators
 March 2, 2024 – September 2, 2024
 California Nature Art Museum
 
-Cheadle Center for Biodiversity and Ecological Restoration at UC Santa Barbara is exhibiting 12 images created for the Big Bee NSF project of local, native bees from around the UCSB campus and coastal Santa Barbara. The bee images are created using multi-focal stacking with a Macropod 3D. Photographers are UC Santa Barbara undergraduate students
+The Cheadle Center for Biodiversity and Ecological Restoration is proud to present a captivating collection of 12 images, part of the Big Bee NSF project, showcasing local, native bees from the UCSB campus and nearby coastal Santa Barbara. These images are the result of a precise photographic technique known as multi-focal stacking, executed with a Macropod 3D. The talent behind these vibrant, intricately detailed bee portraits comes from undergraduate students at UC Santa Barbara, highlighting their contribution to the project and the ongoing efforts in biodiversity and ecological studies of the Cheadle Center.
 
 
 | catalogNumber | photographer | species | family | locality |
